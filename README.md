@@ -6,6 +6,7 @@ This project looks at the LTV value for each customer.
 
 # information about the data set
 This data set comes from the state insurance company of india
+https://www.kaggle.com/datasets/syntheticprogrammer/customer-segmentation/data
 
 # features in this project 
 - BG/NBD (Beta Geo) for transaction number prediction
