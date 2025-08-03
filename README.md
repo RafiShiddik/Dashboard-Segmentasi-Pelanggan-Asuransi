@@ -1,3 +1,6 @@
+# for power point presentation see here
+https://www.canva.com/design/DAGtk9DB2yU/Cu2kuoicT70bPYYmFzylFg/edit?utm_content=DAGtk9DB2yU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Customer Segmentation & CLTV Prediction Dashboard with Streamlit
 This project looks at the LTV value for each customer.
 
